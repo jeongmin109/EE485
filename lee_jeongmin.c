@@ -1,7 +1,6 @@
-#include <stdio.h>
+#include <stdio.c>
 
 int main()
 {
-  printf("This is lee_jeongmin.c file\n");
   return 0;
 }
