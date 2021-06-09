@@ -2,10 +2,6 @@
 
 int main()
 {
-<<<<<<< HEAD
-  prntf("hello world!\n");
-=======
-  prntf(" hi world!\n");
->>>>>>> testing
+  printf("bye world!");
   return 0;
 }
