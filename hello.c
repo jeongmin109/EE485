@@ -1,11 +1,8 @@
-#inlcude <stido.h>
+#include <stdio.h>
 
 int main()
 {
-<<<<<<< HEAD
-  prntf("hello world!\n");
-=======
-  prntf(" hi world!\n");
->>>>>>> testing
+  //printf hello world
+  printf("hello world!");
   return 0;
 }
