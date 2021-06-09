@@ -1,7 +1,7 @@
-#include <stdio.h>
+#inlcude <stdio.h>
 
 int main()
 {
-  printf("Lee JeongMin\n");
+  printf(" Lee Jeong Min \n");
   return 0;
 }
