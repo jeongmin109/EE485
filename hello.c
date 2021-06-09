@@ -2,6 +2,6 @@
 
 int main()
 {
-  prntf(" hello world!\n");
+  prntf(" hi world!\n");
   return 0;
 }
